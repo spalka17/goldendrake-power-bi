@@ -33,21 +33,21 @@ The report was designed to answer the following business questions:
 
 ## Report Pages
 
-- **Overview** - provides a high-level summary of sales, costs, margin, margin percentage and publisher performance.
+* **Overview** - provides a high-level summary of sales, costs, margin, margin percentage and publisher performance.
 
-- **Market Performance** - compares sales performance by country and market group, including store count, average sales per store and performance compared with the global average.
+* **Market Performance** - compares sales performance by country and market group, including store count, average sales per store and performance compared with the global average.
 
-- **Top Products** - presents best-selling books by sales, quantity, category share and recent performance.
+* **Top Products** - presents best-selling books by sales, quantity, category share and recent performance.
 
-- **Inventory & Demand Planning** - focuses on low stock products, projected demand, recommended order quantities and sales velocity.
+* **Inventory & Demand Planning** - focuses on low stock products, projected demand, recommended order quantities and sales velocity.
 
-- **Heatmap** - shows genre popularity across different sales markets based on the share of quantity sold.
+* **Genre Popularity Heatmap** - shows genre popularity across different sales markets based on the share of quantity sold.
 
-- **Seasonality & Genre Trends** - analyzes seasonal sales patterns by book genre and hemisphere.
+* **Seasonality & Genre Trends** - analyzes seasonal sales patterns by book genre and hemisphere.
 
-- **Product Profitability** - segments products by margin value and margin percentage to identify top performers and low-performing products.
+* **Product Profitability** - segments products by margin value and margin percentage to identify top performers and low-performing products.
 
-- **Customer Growth** - compares new customers with total customers in the selected period.
+* **Customer Growth** - compares new customers with total customers in the selected period.
 
 ## Data and Model
 
@@ -93,13 +93,37 @@ The report includes measures and calculations related to:
 
 ## Screenshots
 
-Recommended screenshots to include:
+### Overview
 
-* Overview
-* Market Performance
-* Top Products
-* Inventory & Demand Planning
-* Product Profitability
+![Overview](01-overview.png)
+
+### Market Performance
+
+![Market Performance](02-market-performance.png)
+
+### Top Products
+
+![Top Products](03-top-products.png)
+
+### Inventory & Demand Planning
+
+![Inventory & Demand Planning](04-inventory-demand-planning.png)
+
+### Genre Popularity Heatmap
+
+![Genre Popularity Heatmap](05-genre-heatmap.png)
+
+### Seasonality & Genre Trends
+
+![Seasonality & Genre Trends](06-seasonality-genre-trends.png)
+
+### Product Profitability
+
+![Product Profitability](07-product-profitability.png)
+
+### Customer Growth
+
+![Customer Growth](08-customer-growth.png)
 
 ## Project Status
 

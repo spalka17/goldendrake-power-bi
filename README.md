@@ -95,35 +95,35 @@ The report includes measures and calculations related to:
 
 ### Overview
 
-![Overview](01-overview.png)
+![Overview](screenshots/01-overview.png)
 
 ### Market Performance
 
-![Market Performance](02-market-performance.png)
+![Market Performance](screenshots/02-market-performance.png)
 
 ### Top Products
 
-![Top Products](03-top-products.png)
+![Top Products](screenshots/03-top-products.png)
 
 ### Inventory & Demand Planning
 
-![Inventory & Demand Planning](04-inventory-demand-planning.png)
+![Inventory & Demand Planning](screenshots/04-inventory-demand-planning.png)
 
 ### Genre Popularity Heatmap
 
-![Genre Popularity Heatmap](05-genre-heatmap.png)
+![Genre Popularity Heatmap](screenshots/05-genre-heatmap.png)
 
 ### Seasonality & Genre Trends
 
-![Seasonality & Genre Trends](06-seasonality-genre-trends.png)
+![Seasonality & Genre Trends](screenshots/06-seasonality-genre-trends.png)
 
 ### Product Profitability
 
-![Product Profitability](07-product-profitability.png)
+![Product Profitability](screenshots/07-product-profitability.png)
 
 ### Customer Growth
 
-![Customer Growth](08-customer-growth.png)
+![Customer Growth](screenshots/08-customer-growth.png)
 
 ## Project Status
 

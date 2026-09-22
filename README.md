@@ -1,6 +1,6 @@
 # GoldenDrake Bookstore - Power BI Dashboard
 
-[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWY4NjU1NzEtNmJhNy00OTUyLWIwYTYtYTVkZDZjYTlmYjE5IiwidCI6Ijc1YzJlNGQ0LWQwNGMtNGNlOS1hMGVhLWM5NzViZGM0MTdlYiIsImMiOjF9&embedImagePlaceholder=true)
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGJmMmM5NjktNTUxZC00MmYwLTk5MGItNTg2Y2Q4ZTgzOGQ4IiwidCI6Ijc1YzJlNGQ0LWQwNGMtNGNlOS1hMGVhLWM5NzViZGM0MTdlYiIsImMiOjF9&embedImagePlaceholder=true)
 
 ## Project Overview
 

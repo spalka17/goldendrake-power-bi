@@ -2,7 +2,7 @@
 
 [English version](README.md)
 
-[Zobacz interaktywny dashboard Power BI](https://app.fabric.microsoft.com/view?r=eyJrIjoiNzBjZmVmNjQtMmUwOC00Mjc2LWEwN2EtN2NhMGMzMmUzMWVlIiwidCI6IjI3ZWI2YjZjLWRhZWQtNDFkMS05NTJhLTM0ZDY0MjgzZWFhNSJ9&embedImagePlaceholder=true)
+[Zobacz interaktywny dashboard Power BI](https://app.fabric.microsoft.com/view?r=eyJrIjoiNjVhNjQ1MjktYTEzZS00ZTU5LWI2NTUtOWIxZWNiYTJiNDc1IiwidCI6IjI3ZWI2YjZjLWRhZWQtNDFkMS05NTJhLTM0ZDY0MjgzZWFhNSJ9&embedImagePlaceholder=true)
 
 ## Opis projektu
 
